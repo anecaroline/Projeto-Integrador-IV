@@ -2,6 +2,7 @@ import pandas as pd
 import streamlit as st
 import plotly.express as px
 
+#atualizar o dash
 def main():
     st.title('Dasboard de Trânsito')
 
