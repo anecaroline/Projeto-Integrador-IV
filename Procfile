@@ -1,0 +1,1 @@
+web: streamlit run deployModelo.py --server.port=$PORT
