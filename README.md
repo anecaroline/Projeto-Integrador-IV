@@ -67,5 +67,5 @@ O Random Forest é um conjunto de árvores de decisão que trabalham juntas para
     ```
 4. Execute a Aplicação Streamlit
     ```bash
-    streamlit run streamlit_app.py
+    streamlit run deployModelo.py
     ```
