@@ -6,6 +6,7 @@ Projeto realizado em grupo para os cursos de Ciências de dados e Engenharia da 
 **Tema: Desenvolver análise de dados em escala utilizando algum conjunto de dados existentes ou capturados por IoT e aprendizagem de máquina. Preparar uma interface para visualização dos resultados.**
 
 [Acesse o modelo preditivo](https://projeto-integrador-iv-modelo-dash.streamlit.app/)
+
 [Acesse o DashBoard no powerBi]( https://app.powerbi.com/view?r=eyJrIjoiNzQ0Y2JmOTQtYzVhMi00NzBlLTgwZjgtODc2OTNkYjBkMDZmIiwidCI6ImQzMTc1MTVkLTE2MWUtNGEzOS1iYzIyLTlhOTFkMzAwNTRkYSJ9&pageName=99fe28f4a592c07ba39e)
 
 ## Motivação
